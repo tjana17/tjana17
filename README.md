@@ -4,7 +4,8 @@ I am <a href="https://tjana17.github.io/portfolio/"> Janarthanan Kannan</a> a pa
 
 🔭 I’m currently working on Doodleblue Innovations Pvt Ltd.<br/>
 💬 Ask me about anything in my field, I am happy to help.<br/>
-💼 Any freelance work? do reach, by <a href="mailto:tjana17@gmail.com">email</a> :)<br/><br/>
+💼 Any freelance work? do reach, by <a href="mailto:tjana17@gmail.com">email</a> :)<br/>
+👔 <a href="https://tjana17.github.io/portfolio/">Portfolio</a>
 <!--
 **tjana17/tjana17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,6 +21,26 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## 🎓 Expertise:
+<ul>
+  <li>Swift</li>
+  <li>iOS Application Development</li>
+  <li>Version Control(Git, Bitbucket)</li>
+  <li>Google Maps & Apple Maps Services</li>
+  <li>Firebase Cloud Messaging</li>
+  <li>Firebase Crashlytics & Analytics</li>
+  <li>Design Patterns(MVC, MVVM, MVVP)</li>
+</ul>
+
+## 📚 Learning:
+<ul>
+  <li class="task-list-item">SwiftUI</li>
+  <li>RxSwift</li>
+  <li>Unit Testing & UI Testing</li>
+  <li>Combine</li>
+  <li>Kotlin</li>
+  <li>Android App development</li>
+</ul>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/janarthanan-kannan-4162a34b/ ) 
