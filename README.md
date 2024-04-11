@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   <li>Google Maps & Apple Maps Services</li>
   <li>Firebase Cloud Messaging</li>
   <li>Firebase Crashlytics & Analytics</li>
-  <li>Design Patterns(MVC, MVVM, MVVP)</li>
+  <li>Design Patterns(MVC, MVVM, MVP)</li>
 </ul>
 
 ## 📚 Learning:
