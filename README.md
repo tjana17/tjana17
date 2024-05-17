@@ -25,11 +25,13 @@ Here are some ideas to get you started:
 <ul>
   <li>Swift</li>
   <li>iOS Application Development</li>
+  <li>WatchOS</li>
   <li>Version Control(Git, Bitbucket)</li>
   <li>Google Maps & Apple Maps Services</li>
   <li>Firebase Cloud Messaging</li>
-  <li>Firebase Crashlytics & Analytics</li>
-  <li>Design Patterns(MVC, MVVM, MVP)</li>
+  <li>Firebase Crashlytics, Database, Authentication & Analytics</li>
+  <li>Design Patterns(MVC, MVVM, MVP, Singleton)</li>
+  <li>REST API</li>
 </ul>
 
 ## 📚 Learning:
