@@ -2,7 +2,7 @@
 
 I am <a href="https://tjana17.github.io/portfolio/"> Janarthanan Kannan</a> a passionate self-taught Mobile Application developer and a freelance software engineer from India. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
-🔭 I’m currently working on Doodleblue Innovations Pvt Ltd.<br/>
+🔭 I’m currently working on Cognetik Labs Inc, USA.<br/>
 💬 Ask me about anything in my field, I am happy to help.<br/>
 💼 Any freelance work? do reach, by <a href="mailto:tjana17@gmail.com">email</a> :)<br/>
 👔 <a href="https://tjana17.github.io/portfolio/">Portfolio</a>
