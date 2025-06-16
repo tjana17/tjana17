@@ -35,7 +35,6 @@ Here are some ideas to get you started:
   <li>REST API</li>
   <li>UIKit</li>
   <li>CoreData, Sqlite, Realm & MySQL Databases</li>
-  <li></li>
 </ul>
 
 ## 📚 Learning:
