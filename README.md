@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 ## 🎓 Expertise:
 <ul>
   <li>Swift</li>
+  <li>SwiftUI</li>
   <li>iOS Application Development</li>
   <li>WatchOS</li>
   <li>Version Control(Git, Bitbucket)</li>
@@ -32,11 +33,12 @@ Here are some ideas to get you started:
   <li>Firebase Crashlytics, Database, Authentication & Analytics</li>
   <li>Design Patterns(MVC, MVVM, MVP, Singleton)</li>
   <li>REST API</li>
+  <li>UIKit</li>
 </ul>
 
 ## 📚 Learning:
 <ul>
-  <li class="task-list-item">SwiftUI</li>
+  <li class="task-list-item">Flutter</li>
   <li>RxSwift</li>
   <li>Unit Testing & UI Testing</li>
   <li>Combine</li>
