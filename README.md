@@ -2,14 +2,10 @@
 
 I’m a self-taught Mobile Application Developer and freelance Software Engineer from India, passionate about building elegant, high-performing mobile applications. I enjoy transforming ideas into intuitive digital experiences, with strong attention to architecture, performance, and code quality.
 
-🔭 I’m currently working on Cognetik Labs Inc, USA.<br/>
-💬 Ask me about anything in my field, I am happy to help.<br/>
-💼 Any freelance work? do reach, by <a href="mailto:tjana17@gmail.com">email</a> :)<br/>
-👔 <a href="https://tjana17.github.io/portfolio/">Portfolio</a>
 
-🔭 **Current Focus**:
+## 🔭 Current Focus:
 Working with Cognetik Labs Inc., USA, developing innovative iOS solutions.
-Open to freelance collaborations — feel free to reach out via email.
+Open to freelance collaborations — feel free to reach out via <a href="mailto:tjana17@gmail.com">email</a>.
 
 <!--
 **tjana17/tjana17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
