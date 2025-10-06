@@ -4,8 +4,13 @@ I’m a self-taught Mobile Application Developer and freelance Software Engineer
 
 
 ## 🔭 Current Focus:
-Working with Cognetik Labs Inc., USA, developing innovative iOS solutions.
+Working with Cognetik Labs Inc., USA, developing innovative iOS solutions.<br/>
 Open to freelance collaborations — feel free to reach out via <a href="mailto:tjana17@gmail.com">email</a>.
+
+## 💬 Let's Connect:
+I’m always happy to discuss mobile development, architecture patterns, or best practices in app design.<br/>
+Check out my <a href="https://tjana17.github.io/portfolio/" target="_blank">Portfolio</a> for recent work.
+
 
 <!--
 **tjana17/tjana17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,28 +29,24 @@ Here are some ideas to get you started:
 
 ## 🎓 Expertise:
 <ul>
-  <li>Swift</li>
-  <li>SwiftUI</li>
-  <li>iOS Application Development</li>
-  <li>WatchOS</li>
-  <li>Version Control(Git, Bitbucket)</li>
-  <li>Google Maps & Apple Maps Services</li>
-  <li>Firebase Cloud Messaging</li>
-  <li>Firebase Crashlytics, Database, Authentication & Analytics</li>
-  <li>Design Patterns(MVC, MVVM, MVP, Singleton)</li>
-  <li>REST API</li>
-  <li>UIKit</li>
-  <li>CoreData, Sqlite, Realm & MySQL Databases</li>
+  <li><strong>Languages & Frameworks:</strong> Swift, SwiftUI, UIKit</li>
+  <li><strong>Platforms:</strong> iOS, watchOS, Carplay</li>
+  <li><strong>Version Control:</strong> Git, Bitbucket</li>
+  <li><strong>Maps & Location Services:</strong> Google Maps, Apple Maps</li>
+  <li><strong>Version Control:</strong> Git, Bitbucket</li>
+  <li><strong>Firebase Suite:</strong> Cloud Messaging, Crashlytics, Database, Authentication, Analytics</li>
+  <li><strong>Design Patterns:</strong> MVC, MVVM, MVP, Singleton</li>
+  <li><strong>Databases:</strong> Core Data, SQLite, Realm, MySQL</li>
+  <li><strong>APIs:</strong> RESTful API Integration, GraphQL</li>
 </ul>
 
-## 📚 Learning:
+## 📚 Currently Learning:
 <ul>
   <li class="task-list-item">Flutter</li>
   <li>RxSwift</li>
-  <li>Unit Testing & UI Testing</li>
   <li>Combine</li>
-  <li>Kotlin</li>
-  <li>Android App development</li>
+  <li>Unit Testing & UI Testing</li>
+  <li>Kotlin & Android App development</li>
 </ul>
 
 ## 🌐 Socials:
